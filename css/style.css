@@ -70,3 +70,12 @@ section{
     color: var(--background);
     cursor: pointer;
 }
+
+@media screen and (max-width: 768px) {
+    
+    .card{
+        width: 90%;
+        margin: 1.5rem;
+        padding: 1rem;
+    }
+}
